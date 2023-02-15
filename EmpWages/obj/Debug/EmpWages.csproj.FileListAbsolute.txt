@@ -1,0 +1,16 @@
+D:\Visual studio projects\EmpWages\EmpWages\bin\Debug\EmpWages.exe.config
+D:\Visual studio projects\EmpWages\EmpWages\bin\Debug\EmpWages.exe
+D:\Visual studio projects\EmpWages\EmpWages\bin\Debug\EmpWages.pdb
+D:\Visual studio projects\EmpWages\EmpWages\obj\Debug\EmpWages.csproj.AssemblyReference.cache
+D:\Visual studio projects\EmpWages\EmpWages\obj\Debug\EmpWages.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio projects\EmpWages\EmpWages\obj\Debug\EmpWages.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\EmpWages\EmpWages\obj\Debug\EmpWages.exe
+D:\Visual studio projects\EmpWages\EmpWages\obj\Debug\EmpWages.pdb
+D:\VS_projects\EmpWages\EmpWages\bin\Debug\EmpWages.exe.config
+D:\VS_projects\EmpWages\EmpWages\bin\Debug\EmpWages.exe
+D:\VS_projects\EmpWages\EmpWages\bin\Debug\EmpWages.pdb
+D:\VS_projects\EmpWages\EmpWages\obj\Debug\EmpWages.csproj.AssemblyReference.cache
+D:\VS_projects\EmpWages\EmpWages\obj\Debug\EmpWages.csproj.SuggestedBindingRedirects.cache
+D:\VS_projects\EmpWages\EmpWages\obj\Debug\EmpWages.csproj.CoreCompileInputs.cache
+D:\VS_projects\EmpWages\EmpWages\obj\Debug\EmpWages.exe
+D:\VS_projects\EmpWages\EmpWages\obj\Debug\EmpWages.pdb
